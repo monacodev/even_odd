@@ -8,4 +8,4 @@ programme qui dit si un nombre est pair ou impair
 
 $ git clone https://github.com/monacodev/even_odd.git
 
-$cd even_odd
+$ cd even_odd
